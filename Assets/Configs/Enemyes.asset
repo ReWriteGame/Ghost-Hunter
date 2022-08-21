@@ -9,7 +9,8 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1b711f8012670674b8be732bc5c08415, type: 3}
-  m_Name: ResumeGameEvent_Channel
+  m_Script: {fileID: 11500000, guid: 779a34564af6e094a81670d86ade7abd, type: 3}
+  m_Name: Enemyes
   m_EditorClassIdentifier: 
-  showConsoleMessage: 0
+  prefabs:
+  - {fileID: 6988362916655960332, guid: fa79fe77e5d8b0146a4a72201e83fb8b, type: 3}

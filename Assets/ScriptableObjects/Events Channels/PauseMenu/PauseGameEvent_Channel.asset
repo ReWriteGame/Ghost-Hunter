@@ -12,4 +12,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1b711f8012670674b8be732bc5c08415, type: 3}
   m_Name: PauseGameEvent_Channel
   m_EditorClassIdentifier: 
-  showConsoleMessage: 1
+  showConsoleMessage: 0
