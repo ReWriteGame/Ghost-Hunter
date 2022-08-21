@@ -12,7 +12,7 @@ namespace Game.Enemy
         public void Death()
         {
             OnDeath?.Invoke(this);
-            Destroy();
+            Destroy(1);
         }
 
         public void Destroy(float time = 0)
